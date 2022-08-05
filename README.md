@@ -1,7 +1,7 @@
-<h2 align="centre">Kyy Music Player</h2>
+<h2 align="centre">Nesca Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/2b610c918dec590d2777b.jpg">
+  <img src="https://telegra.ph/file/78dc45ec454a6b1a81ad8.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
